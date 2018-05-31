@@ -1,6 +1,7 @@
 [[redirects]]
 from = "/*"
 to = "index.html.liquid"
+status = 200
 
 [[headers]]
 for = "/*.liquid"
